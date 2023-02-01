@@ -1,0 +1,11 @@
+__pycache__*
+
+!src/JoukahainenSanat/clear_extra.py
+src/JoukahainenSanat/*
+
+WIP*
+data/*
+
+*.db
+*.csv
+*.xlsx
